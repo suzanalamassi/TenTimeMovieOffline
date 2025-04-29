@@ -34,4 +34,6 @@ The code quality, structure, and overall implementation will be reviewed to eval
 
 
 ## ScreenRecord From App
+Click the image below to watch a video walkthrough:
+
 [![Watch the video](https://img.youtube.com/vi/xfI4LnNbCMA/hqdefault.jpg)](https://www.youtube.com/watch?v=xfI4LnNbCMA)
