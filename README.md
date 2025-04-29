@@ -35,7 +35,4 @@ The code quality, structure, and overall implementation will be reviewed to eval
 
 ## ScreenRecord From App
 Click the image below to watch a video walkthrough:
-<video width="100%" controls autoplay muted>
-  <source src="Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="Demo.mp4" controls autoplay muted playsinline width="100%"></video>
