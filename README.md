@@ -34,5 +34,4 @@ The code quality, structure, and overall implementation will be reviewed to eval
 
 
 ## ScreenRecord From App
-Click the image below to watch a video walkthrough:
-<video src="Demo.mp4" controls autoplay muted playsinline width="100%"></video>
+<iframe width="428" height="760" src="https://www.youtube.com/embed/xfI4LnNbCMA" title="TenTime Movie App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
