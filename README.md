@@ -34,4 +34,5 @@ The code quality, structure, and overall implementation will be reviewed to eval
 
 
 ## ScreenRecord From App
-<iframe width="428" height="760" src="https://www.youtube.com/embed/xfI4LnNbCMA" title="TenTime Movie App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
